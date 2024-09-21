@@ -6,5 +6,7 @@
   "dependencies": {
     "immer": "^10.1.1",
     "redux": "^5.0.1"
-  }
+  },
+  "repository": "https://github.com/AnukoolFS1/Redux-Basics.git",
+  "author": "Anukool Singh Chauhan <ascmailing0@gmail.com>"
 }
